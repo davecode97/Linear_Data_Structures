@@ -25,19 +25,19 @@ public class Colas {
 
 	    	out.println("    _______________________________");
 	    	out.println("   |                               |");
-	    	out.println("   |             COLAS             |");
+	    	out.println("   |             QUEUE             |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |    1) INSERCION FINAL         |");
+	    	out.println("   |    1) FINAL INSERTION         |");
 	    	out.println("   |                               |");
-	    	out.println("   |    2) ELIMINACION AL INICIO   |");
+	    	out.println("   |    2) REMOVE AT START         |");
 	      	out.println("   |                               |");
-	    	out.println("   |    3) CONSULTA NORMAL         |");
+	    	out.println("   |    3) NORMAL CONSULT          |");
 	    	out.println("   |                               |");
-	       	out.println("   |    4) SALIR                   |");
+	       	out.println("   |    4) LEAVE                   |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |             QUEUES            |");
+	    	out.println("   |                               |");
 	    	out.println("   |_______________________________|");
 	    	
 	    	int Opcion = LeerDatos.nextInt();

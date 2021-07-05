@@ -24,19 +24,19 @@ public class Pilas {
 		while(true){
 	    	out.println("    _______________________________");
 	    	out.println("   |                               |");
-	    	out.println("   |             PILAS             |");
+	    	out.println("   |             STACK             |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |    1) INSERCION FINAL         |");
+	    	out.println("   |    1) FINAL INSERTION         |");
 	    	out.println("   |                               |");
-	    	out.println("   |    2) ELIMINACION AL FINAL    |");
+	    	out.println("   |    2) REMOVE AL FINAL         |");
 	    	out.println("   |                               |");
-	    	out.println("   |    3) CONSULTA INVERSA        |");
+	    	out.println("   |    3) INVERSE CONSULT         |");
 	    	out.println("   |                               |");
-	     	out.println("   |    4) SALIR                   |");
+	     	out.println("   |    4) LEAVE                   |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |              STACK            |");
+	    	out.println("   |                               |");
 	    	out.println("   |_______________________________|");
 	    	
 	    	int Opcion = LeerDatos.nextInt();

@@ -24,22 +24,22 @@ public class Listas_Dobles {
 		while(true){
 	    	out.println("    _______________________________");
 	    	out.println("   |                               |");
-	    	out.println("   |        MENU LISTAS DOBLES     |");
+	    	out.println("   |           LINKED LIST         |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |    1) INSERCION INICIO        |");
-	    	out.println("   |    2) INSERCION FINAL         |");
+	    	out.println("   |    1) START INSERTION         |");
+	    	out.println("   |    2) FINAL INSERTION         |");
 	    	out.println("   |                               |");
-	    	out.println("   |    3) ELIMINACION AL INICIO   |");
-	     	out.println("   |    4) ELIMINACION AL FINAL    |");
+	    	out.println("   |    3) REMOVE AT START         |");
+	     	out.println("   |    4) REMOVE AT FINAL         |");
 	    	out.println("   |                               |");
-	    	out.println("   |    5) CONSULTA NORMAL         |");
-	    	out.println("   |    6) CONSULTA INVERSA        |");
+	    	out.println("   |    5) NORMAL CONSULT          |");
+	    	out.println("   |    6) INVERSE CONSULT         |");
 	    	out.println("   |                               |");
-	     	out.println("   |    7) SALIR                   |");
+	     	out.println("   |    7) LEAVE                   |");
 	    	out.println("   |_______________________________|");
 	    	out.println("   |                               |");
-	    	out.println("   |          LINKED LIST          |");
+	    	out.println("   |                               |");
 	    	out.println("   |_______________________________|");
 	    	
 	    	int Opcion = LeerDatos.nextInt();
