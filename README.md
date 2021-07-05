@@ -1,5 +1,5 @@
 # Linear_Data_Structures
-University Proyect - Hermosillo 2018 
+University Proyect - 2018 
 
 ## Simple List
 ![image](https://user-images.githubusercontent.com/67779237/124443677-804cdb80-dd43-11eb-9533-3559f1474e7b.png)
